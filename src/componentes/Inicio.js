@@ -1,6 +1,5 @@
 import React from 'react'
-import TresXO from '../assets/kisspng-gibbeting-computer-icons-gallows-clip-art-5b1f4efa1835e7.8029924415287784900992.png'
-
+import TresXO from '../assets/53654.png'
 export const Inicio = ({setInicio}) => {
 
     const handleInicio=()=>{
