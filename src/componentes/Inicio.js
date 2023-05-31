@@ -1,5 +1,5 @@
 import React from 'react'
-import TresXO from '../assets/53654.png'
+import TresXO from '../assets/tic-tac-toe.png'
 export const Inicio = ({setInicio}) => {
 
     const handleInicio=()=>{
